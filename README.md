@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Hema Kumar Reddy 👋</h1>
-<h3 align="center">A specialized AI Engineer from Bangalore, India</h3>
+<h3 align="center">A specialized AI, Machine Learning, Deep Learning and Data Science from Bangalore, India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[HemaKumar0077]&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-I am a passionate AI Engineer specializing in **Machine Learning**, **Deep Learning**, and **Data Science**. My core focus lies in building and refining intelligent systems, with deep expertise in **Retrieval-Augmented Generation (RAG)** and robust **AI Evaluation** methodologies. I thrive on solving complex problems and pushing the boundaries of what AI can achieve.
+I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep Learning**, and **Data Science**. My core focus lies in building and refining intelligent systems, with deep expertise in **Retrieval-Augmented Generation (RAG)** and robust **AI Evaluation** methodologies. I thrive on solving complex problems and pushing the boundaries of what AI can achieve.
 
 - 🔭 I’m currently building and evaluating advanced AI systems with a focus on **Large Language Models (LLMs)** and **RAG**.
-- 🌱 I’m always exploring new frontiers in **LLM Optimization**, **Multimodal AI**, and **Responsible AI**.
-- 👯 I’m open to collaborating on open-source projects related to **Generative AI**, **MLOps**, or **AI Ethics**.
+- 🌱 I’m always exploring new frontiers in **LLM Optimization**, **Multiagent AI**, and **Responsible AI**.
+- 👯 I’m open to collaborating on open-source projects related to **Generative AI**, **Advanced RAG**.
 - 💬 Ask me about anything related to **Python**, **PyTorch**, **TensorFlow**, **RAG**, and **AI model evaluation**.
 - 📫 How to reach me: **<a href="mailto:hemakumarreddy.pm@gmail.com">hemakumarreddy.pm@gmail.com</a>**
 
@@ -50,26 +50,16 @@ I am a passionate AI Engineer specializing in **Machine Learning**, **Deep Learn
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://www.trychroma.com/logo.png" alt="chromadb" width="40" height="40"/> </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pinecone/pinecone-icon.svg" alt="pinecone" width="40" height="40"/> </a>
 </p>
-
-<h4>🔹 MLOps & Cloud</h4>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/sagemaker-logo-in-browser-device.png" alt="sagemaker" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-</p>
-
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=tokyonight" alt="[your-github-username]'s stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[HemaKumar0077]&show_icons=true&locale=en&theme=tokyonight" alt="[HemaKumar0077]'s stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[your-github-username]'s top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[HemaKumar0077]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[HemaKumar0077]'s top languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=tokyonight" alt="[your-github-username]'s streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[HemaKumar0077]&theme=tokyonight" alt="[your-github-username]'s streak" />
 </p>
