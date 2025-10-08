@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hema Kumar Reddy 👋</h1>
-<h3 align="center">A specialized AI, Machine Learning, Deep Learning and Data Science from Bangalore, India</h3>
+<h3 align="center">specialized in AI, Machine Learning, Deep Learning and Data Science from Bangalore, India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[HemaKumar0077]&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
@@ -55,11 +55,11 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
 ### GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[HemaKumar0077]&show_icons=true&locale=en&theme=tokyonight" alt="[HemaKumar0077]'s stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HemaKumar0077&show_icons=true&locale=en&theme=tokyonight" alt="HemaKumar0077's stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[HemaKumar0077]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[HemaKumar0077]'s top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HemaKumar0077&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HemaKumar0077's top languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[HemaKumar0077]&theme=tokyonight" alt="[your-github-username]'s streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HemaKumar0077&theme=tokyonight" alt="HemaKumar0077's streak" />
 </p>
