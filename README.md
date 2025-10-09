@@ -19,7 +19,6 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/hema-kumar-reddy-p-m-0676b1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
----
 
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
 
@@ -49,7 +48,15 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/png-transparent-keras-logo.png" alt="keras" width="40" height="40"/> </a>
 </p>
----
+<h4>🔹 Data Science & Visualization</h4>
+<p align="left">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="excel" width="40" height="40"/> </a>
+</p>
 
 ### GitHub Stats
 
