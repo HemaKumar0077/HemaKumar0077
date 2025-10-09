@@ -55,7 +55,7 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/seaborn-1.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/File_Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/excel_logo.png" alt="excel" width="40" height="40"/> </a>
 </p>
 
 ### GitHub Stats
