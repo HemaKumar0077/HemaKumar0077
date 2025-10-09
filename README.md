@@ -31,10 +31,10 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.langchain.com/assets/images/langsmith_logo-023a8049774623541f7d5c898569f168.svg" alt="langsmith" width="40" height="40"/> </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://blog.langchain.dev/content/images/2024/02/langgraph-cover-2.png" alt="langgraph" width="40" height="40"/> </a>
-  <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer"> <img src="https://phoenix.arize.com/logo.svg" alt="arize phoenix" width="40" height="40"/> </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/assets/langsmith_logo.svg" alt="langsmith" width="40" height="40"/> </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/assets/langgraph_logo.png" alt="langgraph" width="40" height="40"/> </a>
+  <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/arize-phoenix.png" alt="arize phoenix" width="40" height="40"/> </a>
 </p>
 
 <h4>🔹 Machine Learning & Deep Learning</h4>
