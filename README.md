@@ -31,14 +31,17 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  
+<h4>🔹 Generative AI</h4>
+<p align="left">
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/langchain-color.png" alt="langchain" width="40" height="40"/> </a>
   <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/langsmith-color.png" alt="langsmith" width="40" height="40"/> </a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/langgraph-color.png" alt="langgraph" width="40" height="40"/> </a>
   <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/arize-phoenix.png" alt="arize phoenix" width="40" height="40"/> </a>
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama/FFFFFF" alt="ollama" width="40" height="40"/> </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/ollama-icon.webp" width="40" height="40"/> </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
 </p>
-
+</p>
 <h4>🔹 Machine Learning & Deep Learning</h4>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
