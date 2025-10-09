@@ -26,9 +26,15 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
 <h4>🔹 Core Languages & Libraries</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/scipy.svg" alt="scipy" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.langchain.com/assets/images/langsmith_logo-023a8049774623541f7d5c898569f168.svg" alt="langsmith" width="40" height="40"/> </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://blog.langchain.dev/content/images/2024/02/langgraph-cover-2.png" alt="langgraph" width="40" height="40"/> </a>
+  <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer"> <img src="https://phoenix.arize.com/logo.svg" alt="arize phoenix" width="40" height="40"/> </a>
 </p>
 
 <h4>🔹 Machine Learning & Deep Learning</h4>
