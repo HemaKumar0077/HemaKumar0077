@@ -32,8 +32,8 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/assets/langsmith_logo.svg" alt="langsmith" width="40" height="40"/> </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/assets/langgraph_logo.png" alt="langgraph" width="40" height="40"/> </a>
+  <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/langsmith-color.png" alt="langsmith" width="40" height="40"/> </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/langgraph-color.png" alt="langgraph" width="40" height="40"/> </a>
   <a href="https://phoenix.arize.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HemaKumar0077/HemaKumar0077/blob/main/assets/arize-phoenix.png" alt="arize phoenix" width="40" height="40"/> </a>
 </p>
 
