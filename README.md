@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+Hello everyone
 I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep Learning**, and **Data Science**. My core focus lies in building and refining intelligent systems, with deep expertise in **Retrieval-Augmented Generation (RAG)** and robust **AI Evaluation** methodologies. I thrive on solving complex problems and pushing the boundaries of what AI can achieve.
 
 - 🔭 I’m currently building and evaluating advanced AI systems with a focus on **Large Language Models (LLMs)** and **RAG**.
