@@ -61,7 +61,7 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemaKumar0077&show_icons=true&locale=en&theme=tokyonight&cache_seconds=86400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HemaKumar0077&show_icons=true&locale=en&theme=tokyonight" alt="HemaKumar0077's stats" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HemaKumar0077&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HemaKumar0077's top languages" />
