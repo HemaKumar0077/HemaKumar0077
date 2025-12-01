@@ -60,10 +60,9 @@ I am a passionate **AI Engineer** specializing in **Machine Learning**, **Deep L
 
 ### GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HemaKumar0077&show_icons=true&locale=en&theme=tokyonight" alt="HemaKumar0077's stats" />
-</p> -->
-![HemaKumar0077's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemaKumar0077&show_icons=true&locale=en&theme=tokyonight)
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HemaKumar0077&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HemaKumar0077's top languages" />
 </p>
